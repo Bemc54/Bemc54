@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bemc54
+- 👀 I’m interested in IA
+- 🌱 I’m currently learning PHP and JS but Pythom is a great languaje
+- With my repositories, I don't try to change the industry, but I want to help those who need it.
